@@ -1,0 +1,5 @@
+### Listar produtos
+GET http://localhost:8080/produtos
+
+### Cadastrar produto
+POST http://localhost:8080/produtos?nome=Notebook&preco=3500
